@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/patrickriedijk/Test%20Project/_apis/build/status/patrickriedijkav.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/patrickriedijk/Test%20Project/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
