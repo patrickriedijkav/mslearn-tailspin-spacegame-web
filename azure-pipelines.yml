@@ -1,5 +1,4 @@
 trigger:
-<<<<<<< HEAD
  branches:
    include:
    - '*'
@@ -7,9 +6,6 @@ trigger:
  paths:
   exclude:
   - docs/*
-=======
-- '*'
->>>>>>> b9c257201974e7a1da02aa1ba44f0707d6c47e39
 
 pool:
   vmImage: 'ubuntu-18.04'
